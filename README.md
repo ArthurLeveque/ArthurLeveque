@@ -1,4 +1,4 @@
-### Hi, I'm **Arthur L**, a junior web developper still on the learning !
+Hi, I'm **Arthur L**, a junior web developper still on the learning !
 
 <!--
 **ArthurLeveque/ArthurLeveque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
